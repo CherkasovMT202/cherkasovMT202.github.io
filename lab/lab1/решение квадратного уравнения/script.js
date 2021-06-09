@@ -19,7 +19,7 @@ while (c == ""){
 
 d = b*b - 4*a*c;
 
-alert("Корень из дискрименанта: "+Math.sqrt(d));
+alert("Корень из дискриминанта: "+Math.sqrt(d));
 
 if (d>0){
 x1 = (-b+Math.sqrt(d))/(2*a);
